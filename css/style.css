@@ -1,0 +1,143 @@
+.unstyled-list {
+    list-style-type: none;
+}
+.link {
+    text-decoration: none;
+}
+.page-header {
+    background-color:#FFFFFF;
+   fill: solid;
+}
+.page-header nav ul {
+
+}
+.page-head:first-child {
+    color: #2196F3;
+}
+.page-head::before {
+    color: #000000;
+}
+.web-studio {
+    font-family: raleway;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    color: #2196F3, #000000;
+    align: left;
+    vertical-align: top;
+}  
+.studio {
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    color: #2196F3;
+    fill: solid;
+    align: left;
+    vertical-align: top;
+}
+.portofolio {
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    color: #000000;
+    fill: solid;
+    align: left;
+    vertical-align: top;
+}
+.contacts {
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    color: #000000;
+    fill: solid;
+    align: left;
+    vertical-align: top; 
+}
+.mail1 {
+    font-family: roboto;
+    font-style: 400;
+    font-size: 14px;
+    line-height: 1.14;
+    fill: solid;
+    align: left;
+    vertical-align: top;
+    color: #2196F3;  
+}
+.tel1 {
+    font-family: roboto;
+    font-style: 400;
+    font-size: 14px;
+    line-height: 1.14;
+    fill: solid;
+    align: left;
+    vertical-align: top;
+    color: #757575;    
+}
+.page-section {
+    background-color: #2F303A;
+    font-family: roboto;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    align: center;
+    vertical-align: top;
+    fill: solid;
+    color:#FFFFFF 
+}
+.button-request{
+    font-family: roboto;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 1.8;
+    align: center; 
+    vertical-align: center;
+    fill: solid;
+    color:#FFFFFF 
+}
+.page-section1 {
+    background-color: #2F303A;
+}
+.WebStudio1 {
+    font-family: raleway;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    color: #2196F3;
+    align: left;
+}
+.adress {
+    font-family: roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.14;
+    color: #FFFFFF;
+    fill: solid;
+    align: left;
+    vertical-align: top;
+}
+.mail {
+    font-family: roboto;
+    font-style: 400;
+    font-size: 14px;
+    line-height: 1.14;
+    fill: solid;
+    align: left;
+    vertical-align: top;
+    color: rgba(255, 255, 255, 0.6);  
+}
+.tel {
+    font-family: roboto;
+    font-style: 400;
+    font-size: 14px;
+    line-height: 1.14;
+    fill: solid;
+    align: left;
+    vertical-align: top;
+    color: rgba(255, 255, 255, 0.6);    
+}
+.page-section2 {
+    background-color: #2F303A;
+}
