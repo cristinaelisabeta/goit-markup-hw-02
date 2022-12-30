@@ -9,23 +9,20 @@
    fill: solid;
 }
 .page-header nav ul {
-
-}
-.page-head:first-child {
-    color: #2196F3;
-}
-.page-head::before {
-    color: #000000;
+    
 }
 .web-studio {
     font-family: raleway;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
-    color: #2196F3, #000000;
+    color: #000000;
     align: left;
     vertical-align: top;
 }  
+.logo-highlight {
+    color: #2196F3;  
+}
 .studio {
     font-family: roboto;
     font-weight: 500;
@@ -45,6 +42,61 @@
     fill: solid;
     align: left;
     vertical-align: top;
+}
+.all {
+    background-color: #2196F3;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    align: center; 
+    vertical-align: top;
+    fill: solid;
+    color:#FFFFFF;
+}
+.web-site {
+    background-color: #F5F4FA;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    align: center; 
+    vertical-align: top;
+    fill: solid;
+    color: #212121;
+}
+.apps {
+    background-color: #F5F4FA;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    align: center; 
+    vertical-align: top;
+    fill: solid;
+    color: #212121;
+}
+.design {
+    background-color: #F5F4FA;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    align: center; 
+    vertical-align: top;
+    fill: solid;
+    color: #212121; 
+}
+.marketing {
+    background-color: #F5F4FA;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    align: center; 
+    vertical-align: top;
+    fill: solid;
+    color: #212121; 
 }
 .contacts {
     font-family: roboto;
@@ -85,9 +137,10 @@
     align: center;
     vertical-align: top;
     fill: solid;
-    color:#FFFFFF 
+    color:#FFFFFF; 
 }
 .button-request{
+    background-color:#2196F3;
     font-family: roboto;
     font-weight: 900;
     font-size: 16px;
@@ -95,7 +148,7 @@
     align: center; 
     vertical-align: center;
     fill: solid;
-    color:#FFFFFF 
+    color:#FFFFFF; 
 }
 .page-section1 {
     background-color: #2F303A;
@@ -105,8 +158,11 @@
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
-    color: #2196F3;
+    color: #FFFFFF;
     align: left;
+}
+.logo-highlight1 {
+    color: #2196F3;  
 }
 .adress {
     font-family: roboto;
